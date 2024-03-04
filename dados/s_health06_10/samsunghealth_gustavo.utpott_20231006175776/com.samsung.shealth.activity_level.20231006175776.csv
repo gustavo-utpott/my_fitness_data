@@ -1,0 +1,7 @@
+com.samsung.shealth.activity_level,6233003,1
+activity_level,start_time,update_time,create_time,time_offset,deviceuuid,pkg_name,datauuid
+180004,2017-05-28 20:15:46.209,2017-10-29 23:04:44.232,2017-10-29 23:04:44.232,UTC-0200,n2OTyB17mi,com.sec.android.app.shealth,c43b5a4d-2360-4199-b2f7-d501479d3849,
+180003,2018-09-17 17:43:05.504,2018-09-17 17:43:05.504,2018-09-17 17:43:05.518,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,88cbd2cf-2283-488a-94f8-c49b2e414138,
+180004,2018-09-17 17:43:06.255,2018-09-17 17:43:06.255,2018-09-17 17:43:06.261,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,92bf5950-71f7-4b8b-a018-f14055f9b2a2,
+180005,2018-09-17 17:43:06.657,2018-09-17 17:43:06.657,2018-09-17 17:43:06.663,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,6add4634-9480-4f85-b12f-8e8b280c2609,
+180004,2018-09-17 17:43:07.210,2018-09-17 17:43:07.210,2018-09-17 17:43:07.216,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,367f2aaa-bb8b-40b5-9d87-5f43c348f5ae,

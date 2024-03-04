@@ -1,0 +1,5 @@
+com.samsung.shealth.exercise.photo,6233003,2
+start_time,latitude,custom,update_time,create_time,image,longitude,time_offset,deviceuuid,exercise_id,pkg_name,datauuid
+2023-03-04 21:41:32.252,-25.53722,,2023-03-04 21:41:32.288,2023-03-04 21:41:32.288,90c59d5f-009e-466b-a9d7-414d4e9dfb2d.image.jpg,-49.169495,UTC-0300,yfgkJHa6g4,9fb3b226-7e72-4fe9-b7a5-d84d9a1e0394,com.sec.android.app.shealth,90c59d5f-009e-466b-a9d7-414d4e9dfb2d,
+2022-12-11 20:47:27.836,-30.034672,,2022-12-11 20:47:27.916,2022-12-11 20:47:27.916,ab018651-c2a2-49a9-94e8-18693bb17e8e.image.jpg,-51.212917,UTC-0300,yfgkJHa6g4,73052a2f-8e5f-44a9-944b-26ccfac75840,com.sec.android.app.shealth,ab018651-c2a2-49a9-94e8-18693bb17e8e,
+2022-08-28 19:25:01.296,-30.052408,,2022-08-28 19:25:01.336,2022-08-28 19:25:01.336,f328bf97-26d1-47f7-b016-4e816afc5f77.image.jpg,-51.23285,UTC-0300,yfgkJHa6g4,2dabfdc9-beb4-f450-e43a-b54b07f4fc47,com.sec.android.app.shealth,f328bf97-26d1-47f7-b016-4e816afc5f77,

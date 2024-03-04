@@ -1,0 +1,10 @@
+com.samsung.shealth.social.friends,6233003,2
+nick_name,device_type,msisdn,status,image_url,update_time,create_time,blocked,uid,level,gdpr_restricted,deviceuuid,pkg_name,invitation_allowed,display_name,datauuid
+João,ANDROID,5551999897489,0,,2022-12-19 23:27:57.225,2022-12-19 23:27:57.225,0,8282754,4,0,yfgkJHa6g4,com.sec.android.app.shealth,1,João Deckmann,a81c49a0-e154-4c0c-a764-4603dcf7e056,
+Adriano,ANDROID,5551999885457,0,,2022-12-19 23:27:57.224,2022-12-19 23:27:57.224,0,7842985,7,0,yfgkJHa6g4,com.sec.android.app.shealth,1,Studio Ativa Pilates e Funcional Bitencourt Araújo,b46e5f98-3df0-4688-8068-bba6daea07cd,
+gabrielwolff00,ANDROID,5551992603242,0,,2022-12-19 23:27:57.226,2022-12-19 23:27:57.226,0,51685463,1,0,yfgkJHa6g4,com.sec.android.app.shealth,0,Gabriel Wolff,0ad449f3-9955-4b0f-831a-3bccd7a86609,
+Guilherme Bulcão Manica,ANDROID,351915601013,0,,2022-12-19 23:27:57.226,2022-12-19 23:27:57.226,0,70643236,1,0,yfgkJHa6g4,com.sec.android.app.shealth,0,Guilherme,2df0da11-9649-440c-a72f-5d1ddf3d88bc,
+Gilberto Utpott,ANDROID,5551999882030,0,,2023-04-12 21:16:11.716,2023-04-12 21:16:11.716,0,18475226,4,0,yfgkJHa6g4,com.sec.android.app.shealth,1,Gilberto U,b01710ca-75df-4ce4-8d06-44409eb1d84c,
+Maria Stela Machado,ANDROID,5551998166989,0,https://d3tqs16tcqd0gr.cloudfront.net/aa3c/93086276-4f1a-4815-ab60-f49eb0ad7e28.gif,2022-12-19 23:27:57.230,2022-12-19 23:27:57.230,0,101651843,1,0,yfgkJHa6g4,com.sec.android.app.shealth,0,Stela M,f55b8747-2a58-41ed-bdac-54768f5f222f,
+luizrodrigofink,ANDROID,5551998721999,0,,2022-12-19 23:27:57.230,2022-12-19 23:27:57.230,0,85820473,1,0,yfgkJHa6g4,com.sec.android.app.shealth,0,Luiz Fink,be2bcc6b-8205-4ea1-b259-24daa9f10ae2,
+melissa.cortezia,ANDROID,5551991179650,0,,2022-12-19 23:27:57.227,2022-12-19 23:27:57.227,0,82225931,1,0,yfgkJHa6g4,com.sec.android.app.shealth,0,Melissa Cortezia,82e5836d-f8a4-4dba-9eec-d004d3b92523,

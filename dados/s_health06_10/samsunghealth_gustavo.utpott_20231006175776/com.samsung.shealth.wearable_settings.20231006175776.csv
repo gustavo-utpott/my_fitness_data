@@ -1,0 +1,9 @@
+com.samsung.shealth.wearable_settings,6233003,1
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,2020-11-30 21:05:27.863,2020-11-30 21:03:20.090,,hrm_elevated_hr,,1,QRbb7eXJAm,com.sec.android.app.shealth,,9ab03a84-f23a-413d-b645-8883a41e41e6,
+,,2021-03-09 12:29:16.885,2021-03-09 12:29:15.185,,exercise_auto_pause.1002,,1,QRbb7eXJAm,com.sec.android.app.shealth,,c6b8562a-0c1d-42c7-a095-d1a7603d1c63,
+,,2020-11-30 21:05:09.924,2020-11-30 21:05:09.924,,stress_auto_measure,,1,QRbb7eXJAm,com.sec.android.app.shealth,,594e4097-1c70-4529-9c78-6568d621f31b,
+,,2020-11-30 21:05:22.684,2020-11-30 21:05:22.684,,hrm_auto_measure,,0,QRbb7eXJAm,com.sec.android.app.shealth,,6456af4d-23d1-401d-b308-9b7b96519f74,
+,,2021-03-07 20:49:10.799,2021-03-07 20:49:10.799,,exercise_always_on,,1,QRbb7eXJAm,com.sec.android.app.shealth,,1d8343ae-5b00-497d-8bbd-7ba1b33a0c41,
+,,2020-11-30 21:05:27.893,2020-11-30 21:05:27.893,,hrm_elevated_hr_alerts,,120,QRbb7eXJAm,com.sec.android.app.shealth,,7c6a28ef-2ca7-4978-9326-17949994903b,
+,,2022-03-03 17:06:57.759,2020-11-30 21:04:08.828,,exercise_selected_type,c95ed864-13cf-4a8f-9860-b3fa360b164d.blob_value.json,,QRbb7eXJAm,com.sec.android.app.shealth,,c95ed864-13cf-4a8f-9860-b3fa360b164d,

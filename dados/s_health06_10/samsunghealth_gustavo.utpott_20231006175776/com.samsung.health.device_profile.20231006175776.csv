@@ -1,0 +1,16 @@
+com.samsung.health.device_profile,6233003,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2023-10-06 20:47:45.272,2019-09-26 13:06:21.653,My Device,SM-G970F,,yfgkJHa6g4,com.sec.android.app.shealth,S10e de Gustavo,2873db91-46b0-165b-7dd3-26df6bffda3c,
+Samsung,,,10012,,,360001,2018-03-15 00:35:30.046,2014-12-26 20:46:08.497,SM-G800H,SM-G800H,4,dEKows+dDW,com.sec.android.app.shealth,,7442a8c2-cf9d-0d6f-9294-4fc03b851b01,
+Google,,,,,,360001,2023-04-12 11:54:52.836,2023-04-12 11:54:52.836,My Device,Pixel 7,,xoyixJvqZs,com.sec.android.app.shealth,Pixel 7,5f3410d9-ca9f-d7f5-bca7-f491da31b886,
+Combined,,,,,,0,2023-04-12 14:05:04.580,2023-04-12 14:05:04.580,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Pixel 7,7af9722c-cd99-07b7-853a-43ce58e819c5,
+Samsung,,,10009,,,360001,2018-03-15 00:35:30.046,2015-07-09 22:07:43.505,My Device,,4,z80ghJXVZe,com.sec.android.app.shealth,,cfcd2084-95d5-65ef-66e7-dff9f98764da,
+Samsung Electronics,1,102,10054,1,9ffc7385-621e-4b83-89d3-c62147307011.capability.json,360003,2023-09-29 13:26:33.965,2023-04-12 15:09:01.675,Galaxy Watch4,SM-R860,,dFCfDPMS7d,com.sec.android.app.shealth,Pixel 7,9ffc7385-621e-4b83-89d3-c62147307011,
+all_target,,,,,,0,2023-04-12 14:05:04.708,2023-04-12 14:05:04.708,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Pixel 7,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung,,,,,,360001,2018-09-05 22:37:21.225,2018-09-05 22:37:21.225,My Device,SM-G930F,,zjIwstRrv1,com.sec.android.app.shealth,Samsung Galaxy S7,11940399-5f72-fdea-b686-8fde2bf82ffc,
+Samsung,,,10012,,,360001,2018-03-15 00:35:30.046,2015-01-30 19:48:28.021,SM-G800H,SM-G800H,4,fh/B1u+SaO,com.sec.android.app.shealth,,7e1fc1d6-ef92-68ee-53a2-83e93a2a7b89,
+Samsung Electronics,1,25,10051,1,1943207f-f546-829b-ee26-5cd832cf98f5.capability.json,360003,2022-03-19 12:34:32.213,2020-11-30 20:29:35.453,Galaxy Fit2,,,QRbb7eXJAm,com.sec.android.app.shealth,Galaxy S10e,1943207f-f546-829b-ee26-5cd832cf98f5,
+Samsung,,,,,,360001,2018-03-15 00:35:30.046,2015-07-09 22:07:41.841,My Device,SM-G800H,,f1/7zwjou1,com.sec.android.app.shealth,Gustavo s5 mini,ad9496dd-415c-fec3-f0f2-df2bfd557e2d,
+Samsung Electronics,,,,,,360003,2020-12-13 21:05:23.170,2020-12-13 21:05:23.170,Strava,www.strava.com,,sgh4ID1EWw,com.sec.android.app.shealth,Galaxy S10e,77a1f361-e560-8806-d033-93d88e868f02,
+Samsung,,,,,,360001,2018-03-15 00:35:30.046,2016-11-26 20:47:11.553,My Device,SM-G930F,,n2OTyB17mi,com.sec.android.app.shealth,Samsung Galaxy S7,1b28fdb0-9855-2708-84d7-ae92477325df,
+Samsung Electronics,1,102,10054,1,ef994764-66b9-4788-9cdf-a82e6be70e6c.capability.json,360003,2023-03-04 11:26:01.497,2022-12-08 14:13:42.054,Galaxy Watch4,SM-R860,,2l9vD+Aay/,com.sec.android.app.shealth,Galaxy S10e,ef994764-66b9-4788-9cdf-a82e6be70e6c,

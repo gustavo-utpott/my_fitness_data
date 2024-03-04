@@ -1,0 +1,10 @@
+com.samsung.shealth.food_goal,6233003,2
+update_time,create_time,goal_value,goal_by,time_offset,deviceuuid,comment,pkg_name,set_time,datauuid,goal_type
+2018-09-20 21:32:36.896,2018-09-20 21:32:36.896,3277.9326,,UTC-0300,zjIwstRrv1,,com.sec.android.app.shealth,1537479156870,bf383f5f-a90b-4c87-97c6-072a2a30b46f,0,
+2014-12-25 12:26:32.722,2014-12-25 12:26:32.722,2634.0,,UTC-0200,dEKows+dDW,,com.sec.android.app.shealth,1419510392715,89d1a870-d787-fadc-f0bf-7ff361c8b5c9,0,
+2018-09-08 02:07:53.063,2018-09-08 02:07:53.063,3273.955,,UTC-0300,zjIwstRrv1,,com.sec.android.app.shealth,1536372473046,210bf992-563b-490b-9ad1-28f1037f1c7d,0,
+2023-08-24 16:33:43.871,2023-08-24 16:33:43.853,3000.0,,UTC-0300,xoyixJvqZs,,com.sec.android.app.shealth,1692894823852,58d7ef08-68a6-4980-8d47-fcfa4fd916b9,0,
+2023-04-17 13:03:25.759,2023-04-17 13:03:25.722,12.0,,UTC-0300,xoyixJvqZs,,com.sec.android.app.shealth,1681700400000,717395e1-7c9d-4eae-9276-e5cd0d4b1eaa,1,
+2023-08-22 19:19:47.462,2023-08-22 19:18:55.314,3150.0,,UTC-0300,xoyixJvqZs,,com.sec.android.app.shealth,1692731935313,fb2b85c1-c393-48be-9451-99977831944e,0,
+2023-08-14 20:10:27.614,2023-08-14 20:10:27.594,2700.0,,UTC-0300,xoyixJvqZs,,com.sec.android.app.shealth,1692043827593,1387783f-dce0-407f-91b7-c85a3c617b0d,0,
+2020-12-27 01:48:01.480,2020-12-27 01:48:01.459,2650.0,,UTC-0300,yfgkJHa6g4,,com.sec.android.app.shealth,1609033681458,71a22c87-f583-48c4-bc06-4dc84f136194,0,

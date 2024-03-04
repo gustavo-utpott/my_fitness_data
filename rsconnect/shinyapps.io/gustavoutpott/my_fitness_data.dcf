@@ -1,0 +1,12 @@
+name: my_fitness_data
+title: my_fitness_data
+username: gustavoutpott
+account: gustavoutpott
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11396794
+bundleId: 8327977
+url: https://gustavoutpott.shinyapps.io/my_fitness_data/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,9 @@
+com.samsung.shealth.goal,6233003,2
+start_time,float_value,update_time,create_time,value,time_offset,deviceuuid,pkg_name,datauuid,goal_type
+2018-09-07 19:53:37.914,69.5,2018-09-07 19:53:37.917,2018-09-07 19:53:37.917,69,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,142c233c-b78f-4b0b-b4ba-c117e1cd3aea,40004,
+1970-01-01 00:00:00.000,,2015-01-31 22:23:20.900,2015-01-17 19:48:41.931,4000,UTC+0100,dEKows+dDW,com.sec.android.app.shealth,7ef1ce7e-b217-2161-a3ad-296a98b0ee7c,40009,
+2018-09-20 21:32:36.922,69.5,2018-09-20 21:32:36.923,2018-09-20 21:32:36.923,69,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,d5e5500e-7a96-4e45-9b4c-898fe6039044,40004,
+2018-09-07 19:38:22.338,69.5,2018-09-07 19:38:22.341,2018-09-07 19:38:22.341,69,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,94e01fb2-6c8a-400a-9aa2-acf1c782c7b4,40004,
+2018-09-08 02:07:53.118,69.5,2018-09-08 02:07:53.121,2018-09-08 02:07:53.121,69,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,bf938361-eb56-45f2-95d5-49fe67b0e321,40004,
+2018-09-08 01:51:58.541,69.5,2018-09-08 01:51:58.544,2018-09-08 01:51:58.544,69,UTC-0300,zjIwstRrv1,com.sec.android.app.shealth,95db4a3c-873e-4efd-8e06-e6fae122a1fd,40004,
+2014-12-25 12:26:32.715,,2014-12-25 12:26:32.738,2014-12-25 12:26:32.738,934,UTC-0200,dEKows+dDW,com.sec.android.app.shealth,80d297e1-118a-7b40-69df-32d948413386,40011,

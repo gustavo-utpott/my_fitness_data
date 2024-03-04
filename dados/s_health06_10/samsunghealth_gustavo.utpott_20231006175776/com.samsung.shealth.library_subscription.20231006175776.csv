@@ -1,0 +1,7 @@
+com.samsung.shealth.library_subscription,6233003,1
+subscription_state,update_time,create_time,tile_controller_id,type,deviceuuid,pkg_name,datauuid,provider_pkg_name
+1,2015-09-10 09:45:07.932,2015-09-10 09:45:07.932,tracker.sport_others,0,f1/7zwjou1,com.sec.android.app.shealth,a66f4633-bc3d-45af-8488-f2b79a13cf05,com.sec.android.app.shealth,
+1,2015-07-09 22:07:44.467,2015-07-09 22:07:44.467,tracker.sport_walking,0,f1/7zwjou1,com.sec.android.app.shealth,3f6ae7c0-7a14-4b26-9725-4dae4aef0471,com.sec.android.app.shealth,
+1,2015-07-09 22:07:44.566,2015-07-09 22:07:44.566,tracker.weight,0,f1/7zwjou1,com.sec.android.app.shealth,3a0180ae-1440-45aa-aa76-5af527e32fe1,com.sec.android.app.shealth,
+1,2015-07-09 22:07:44.690,2015-07-09 22:07:44.690,tracker.sport_cycling,0,f1/7zwjou1,com.sec.android.app.shealth,e396c5e4-e047-4bcf-a22d-f5867c7e13b5,com.sec.android.app.shealth,
+1,2015-07-09 22:07:41.903,2015-07-09 22:07:41.903,goal.suggestion,1,f1/7zwjou1,com.sec.android.app.shealth,9b9118c7-c6f0-47e4-a72f-32842b5f3192,com.sec.android.app.shealth,
